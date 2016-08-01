@@ -2,7 +2,7 @@
 
 I hereby claim:
 
-  * I am djcraysey on github.
+  * I am djcrays on github.
   * I am djcray (https://keybase.io/djcray) on keybase.
   * I have a public key ASDqar5_sX290kUlmWyAoQ4_ul8785GAzqoqLX9IjWb9bAo
 
@@ -20,7 +20,7 @@ To claim this, I am signing this object:
         },
         "service": {
             "name": "github",
-            "username": "djcraysey"
+            "username": "djcrays"
         },
         "type": "web_service_binding",
         "version": 1
@@ -29,15 +29,15 @@ To claim this, I am signing this object:
         "name": "keybase.io go client",
         "version": "1.0.16"
     },
-    "ctime": 1470066669,
+    "ctime": 1470067061,
     "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1470066607,
-        "hash": "fb26111f9236ce04c4f1b032fdca10b994f0eb73b53b34ffa9dd9e58ce353681d2d9b6f785df3a50890af7fc59eadc027ad3652348e6f7d2d4b684846958582f",
-        "seqno": 552341
+        "ctime": 1470067038,
+        "hash": "d1941799424a93659f837f2273a4f5b0a847d667ad51fb802b0db4f9e52a3864916313b43a2a793c55f14f1f539df1c66f4506e22d0f53c9a77c31979af02e94",
+        "seqno": 552349
     },
-    "prev": "1e382b1e7db08dea4b7d4fbaa3b9a6fa23b533f6a5954430cce8d60b871c01ba",
-    "seqno": 47,
+    "prev": "428d54d61c391fff234cc664934e019c608ca2fee72bc33c65385602434db3cb",
+    "seqno": 48,
     "tag": "signature"
 }
 ```
@@ -45,7 +45,7 @@ To claim this, I am signing this object:
 with the key [ASDqar5_sX290kUlmWyAoQ4_ul8785GAzqoqLX9IjWb9bAo](https://keybase.io/djcray), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6mq+f7F9vdJFJZlsgKEOP7pfO/ORgM6qKi1/SI1m/WwKp3BheWxvYWTFAux7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOGE2YTc5YzVkMTM0MjkwYTcxNTI3ZDJmZTQzNDdiYjdkOTlmYTEzODQwOGViNmQ3ZGJmY2FmOGM4ZWEyOGFlNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWE2YWJlN2ZiMTdkYmRkMjQ1MjU5OTZjODBhMTBlM2ZiYTVmM2JmMzkxODBjZWFhMmEyZDdmNDg4ZDY2ZmQ2YzBhIiwidWlkIjoiZTlmY2MyZWVlOWNiMGY2ZTBhMGJjMWNkMDhlM2U2MTkiLCJ1c2VybmFtZSI6ImRqY3JheSJ9LCJzZXJ2aWNlIjp7Im5hbWUiOiJnaXRodWIiLCJ1c2VybmFtZSI6ImRqY3JheXNleSJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNiJ9LCJjdGltZSI6MTQ3MDA2NjY2OSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDcwMDY2NjA3LCJoYXNoIjoiZmIyNjExMWY5MjM2Y2UwNGM0ZjFiMDMyZmRjYTEwYjk5NGYwZWI3M2I1M2IzNGZmYTlkZDllNThjZTM1MzY4MWQyZDliNmY3ODVkZjNhNTA4OTBhZjdmYzU5ZWFkYzAyN2FkMzY1MjM0OGU2ZjdkMmQ0YjY4NDg0Njk1ODU4MmYiLCJzZXFubyI6NTUyMzQxfSwicHJldiI6IjFlMzgyYjFlN2RiMDhkZWE0YjdkNGZiYWEzYjlhNmZhMjNiNTMzZjZhNTk1NDQzMGNjZThkNjBiODcxYzAxYmEiLCJzZXFubyI6NDcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAhFVrpcyo6SpVFzG1cBQUl2fz1GtP4X3WQ3CpUMB0GHizKoPuUgSMKeX2wUz50JL0Pjsno0BJknWHANpbSWVIBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHHpBMiD7rduxbvUJjJNAsE4UCYBut/lXkpcRYi6pUd5o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg6mq+f7F9vdJFJZlsgKEOP7pfO/ORgM6qKi1/SI1m/WwKp3BheWxvYWTFAup7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxOGE2YTc5YzVkMTM0MjkwYTcxNTI3ZDJmZTQzNDdiYjdkOTlmYTEzODQwOGViNmQ3ZGJmY2FmOGM4ZWEyOGFlNDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZWE2YWJlN2ZiMTdkYmRkMjQ1MjU5OTZjODBhMTBlM2ZiYTVmM2JmMzkxODBjZWFhMmEyZDdmNDg4ZDY2ZmQ2YzBhIiwidWlkIjoiZTlmY2MyZWVlOWNiMGY2ZTBhMGJjMWNkMDhlM2U2MTkiLCJ1c2VybmFtZSI6ImRqY3JheSJ9LCJzZXJ2aWNlIjp7Im5hbWUiOiJnaXRodWIiLCJ1c2VybmFtZSI6ImRqY3JheXMifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0NzAwNjcwNjEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ3MDA2NzAzOCwiaGFzaCI6ImQxOTQxNzk5NDI0YTkzNjU5ZjgzN2YyMjczYTRmNWIwYTg0N2Q2NjdhZDUxZmI4MDJiMGRiNGY5ZTUyYTM4NjQ5MTYzMTNiNDNhMmE3OTNjNTVmMTRmMWY1MzlkZjFjNjZmNDUwNmUyMmQwZjUzYzlhNzdjMzE5NzlhZjAyZTk0Iiwic2Vxbm8iOjU1MjM0OX0sInByZXYiOiI0MjhkNTRkNjFjMzkxZmZmMjM0Y2M2NjQ5MzRlMDE5YzYwOGNhMmZlZTcyYmMzM2M2NTM4NTYwMjQzNGRiM2NiIiwic2Vxbm8iOjQ4LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQAWH9DfVs1uG0n9/f8jWWUAIuuw6cEeeNpg3TSC6XKr2VnRdvfPN5VcGWiHEtyKB2H2xQliW3CA7npAwhTB4dguoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBVCXMuAKiwbr011jkLH79oqQtRJONtFE05qX36ZzTCsaN0YWfNAgKndmVyc2lvbgE=
 
 ```
 
